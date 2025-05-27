@@ -30,7 +30,7 @@ function Navbar() {
           <Link to='/' className='text-2xl text-white font-bold'>
             Products Store
           </Link>
-          <button className='text-gray-700 hover:text-blue-500 focus:outline-none'>
+          <button className='text-white hover:text-blue-500 focus:outline-none'>
             <CiMenuBurger />
           </button>
         </div>
