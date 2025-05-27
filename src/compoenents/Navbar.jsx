@@ -25,7 +25,7 @@ function Navbar() {
         </div>
       </nav>
 
-      <nav className='md:hidden bg-white shadow'>
+      <nav className='md:hidden bg-indigo-900 shadow'>
         <div className='container mx-auto px-4 py-4 flex justify-between items-center'>
           <Link to='/' className='text-2xl text-white font-bold'>
             Products Store
